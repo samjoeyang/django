@@ -70,3 +70,4 @@ DjangoCMS与Django、Python版本对应关系
 | 3.0.18     | ×      | ×   | ×   | ×   | ✓   | ✓   | ✓   | ✓   | ×      | ×   | ×   | ×   | ×    | ×    | ×   | ×   | ✓   | ✓   |
 
 ### ****
+GitBook2GitHub
